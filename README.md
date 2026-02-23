@@ -1,20 +1,24 @@
-<h1 align="center">Hi there, I’m Nithin 👋🙋🏻‍♂️</h1>
+<div align="center">
 
-<p align="center">
-  <b>Computer Engineering Grad @ Texas A&M</b>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Texas_A%26M_University_logo.svg/960px-Texas_A%26M_University_logo.svg.png" 
-       alt="Texas A&M" width="20" style="margin-left: 8px;"></br>
-  <i>I juggle hardware and software because choosing just one felt… too easy :p</i>
-</p>
+<h3>Hi, I'm</h3>
+<img src="ascii-art-text.jpeg" alt="Nithin" width="700" />                                             
+ 
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&pause=1000&color=500000&center=true&vCenter=true&width=600&lines=Computer+Engineering+@+Texas+A%26M;Hardware+Design+Verification;RTL+Design+%2B+Verification;Software+Engineering" alt="Typing SVG" />
+  </h3>
 
+  <p align="center">
+    <i>"I juggle hardware and software because choosing just one felt… too easy :p"</i>
+  </p>
+</div>
 
 ---
 
 ### 👀 About Me
 
-- 🌱 Currently learning hardware design verification and computer architecture  
-- 🤜🤛 Open to collaborating on verification, RTL, or hardware related tools  
-- 📫 Reach me at **bvsnithin412@tamu.edu**  
+- 🌱 **Current Focus:** Leveling up in **Hardware Design Verification** and **Computer Architecture**.  
+- 🤜🤛 **Collaboration:** Open to collaborating on **Verification, RTL, or hardware-related automation tools**.  
+- 📫 **Get in touch:** Reach out at [**bvsnithin412@tamu.edu**](mailto:bvsnithin412@tamu.edu) or connect on [**LinkedIn**](https://www.linkedin.com/in/bvsnithin/).
 
 ---
 
@@ -84,9 +88,7 @@
 
 ---
 
-<p align="center">
-  <img src="scooter.gif" width="400" style="border-radius: 11px" />
-</p>
-
-Thanks for stopping by. Feel free to snoop around my repos 🚀
-
+<div align="center">
+  <img src="scooter.gif" width="450" style="border-radius: 20px;" />
+  <p><i>Thanks for stopping by! Feel free to explore my repos 🚀</i></p>
+</div>
